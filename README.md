@@ -51,7 +51,7 @@
 
 ### Demo Resources
 
-[1] [Elastiflix](https://github.com/elastic/observability-examples) - a simple micro services movie app with different language implementations, showing both Elastic APM and OTel instrumentation
+[1] [Elastiflix](https://github.com/elastic/observability-examples/blob/main/Elastiflix/) - a simple micro services movie app with different language implementations, showing both Elastic APM and OTel instrumentation
 
 ----
 
