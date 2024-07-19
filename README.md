@@ -51,11 +51,12 @@
 
 ### Demo Resources
 
-[1] [Elastiflix](https://github.com/elastic/observability-examples/blob/main/Elastiflix/) - a simple micro services movie app with different language implementations, showing both Elastic APM and OTel instrumentation
+[1] [Elastiflix](https://github.com/elastic/observability-examples/tree/main/Elastiflix#readme) - a simple micro services movie app with different language implementations, showing both Elastic APM and OTel instrumentation
 
 ----
 
 ### Webpage Testing (Free) Application
+
 [1] You can run webtesting: https://www.webpagetest.org
 
 
