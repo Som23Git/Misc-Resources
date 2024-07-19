@@ -27,6 +27,14 @@
 
 [5] [How to deploy Microservices?](https://microservices.io/)
 
+### Advanced:
+
+[1] [Understanding of Distributed Tracing](https://www.elastic.co/guide/en/apm/get-started/7.1/distributed-tracing.html)
+
+[2] [What is OpenTelemetry? Will it work with Elasticsearch?](https://www.elastic.co/what-is/opentelemetry)
+
+[3] [Understanding of OpenTracing, Distributes Tracing, and Elastic APM](https://www.elastic.co/blog/distributed-tracing-opentracing-and-elastic-apm)
+
 ----
 
 ### DIY - Tasks:
