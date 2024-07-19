@@ -45,7 +45,9 @@
 
 [ ] Attach the Flask APM code snippet to the application - Refer to this [documentation](https://www.elastic.co/guide/en/apm/agent/python/current/flask-support.html)
 
-[ ] Observer the API Routes appearing in the Kibana UI under Observability > APM.
+[ ] Observe the API Transactions and Spans appearing in the Kibana UI under Observability > APM.
+
+[ ] Increase the complexity of the application with additional routes and including a database to notice **Traces, Transactions, and Span** across services.
 
 -----
 
