@@ -1,4 +1,4 @@
-# Misc-Resources
+# Misc-Resources - Azure Developer Community Presentation (20th July, 2024)
 ----
 ### Basics:
 
