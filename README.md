@@ -55,6 +55,8 @@
 
 [1] [Elastiflix](https://github.com/elastic/observability-examples/tree/main/Elastiflix#readme) - a simple micro services movie app with different language implementations, showing both Elastic APM and OTel instrumentation
 
+[2] [Download Elasticsearch and run it locally](https://github.com/elastic/elasticsearch#readme) - A Opensource Repository to download and run Elasticsearch locally on your machine as on-prem.
+
 ----
 
 ### Webpage Testing (Free) Application
