@@ -35,6 +35,12 @@
 
 [3] [Understanding of OpenTracing, Distributes Tracing, and Elastic APM](https://www.elastic.co/blog/distributed-tracing-opentracing-and-elastic-apm)
 
+### Tools Required:
+
+[1] [Track Network Activity using Chrome DevTools](https://developer.chrome.com/docs/devtools/network#load)
+
+[2] [Webpage Load Testing](https://www.webpagetest.org)
+
 ----
 
 ### DIY - Tasks:
@@ -59,9 +65,8 @@
 
 ----
 
-### Webpage Testing (Free) Application
 
-[1] You can run webtesting: https://www.webpagetest.org
+
 
 
 
