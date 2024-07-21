@@ -9,8 +9,8 @@
 ### Connect with me ⬇️:
 
 <p align="left">
-<a href="https://medium.com/@somesh-rokz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93936168/209452453-12f17afb-2de4-4248-aab1-f80ad5b95b91.png" alt="@somesh-rokz" height="40" width="40" /></a>
-<a href="https://someshwaran.me" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ba68585f-94c0-48d0-be19-37cb9d9bd2bf" alt="website" height="40" width="40" /></a>
+<a href="https://medium.com/@somesh-rokz" target="blank"><img align="center" src="https://github.com/user-attachments/assets/44ca3e19-3262-44bb-a56f-8abfd4ed032f" alt="Medium_logo" height="40" width="40" /></a>
+<a href="https://someshwaran.me" target="blank"><img align="center" src="https://github.com/user-attachments/assets/aafe5c52-f113-44f3-8873-887a8f563030" alt="website" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/somdevsupport/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/920a9053-c5e5-4fb1-a31a-14c619b95c18" alt="linkedin" height="40" width="40" /></a>
 </p>
 
@@ -59,13 +59,14 @@
 
 ### Demo Resources
 
-[1] [Elastiflix](https://github.com/elastic/observability-examples/tree/main/Elastiflix#readme) - a simple micro services movie app with different language implementations, showing both Elastic APM and OTel instrumentation
+[1] [Elastiflix](https://github.com/elastic/observability-examples/tree/main/Elastiflix#readme) - a simple micro services movie app with different language implementations, showing both Elastic APM and OTel instrumentation.
+
+![image](https://github.com/user-attachments/assets/c1229e0a-a0a3-4a13-be19-5a946be5d1cd)
+
 
 [2] [Download Elasticsearch and run it locally](https://github.com/elastic/elasticsearch#readme) - A Opensource Repository to download and run Elasticsearch locally on your machine as on-prem.
 
 ----
-
-
 
 
 
