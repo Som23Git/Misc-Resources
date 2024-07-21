@@ -37,9 +37,9 @@
 
 ### Tools Required:
 
-[1] [Track Network Activity using Chrome DevTools](https://developer.chrome.com/docs/devtools/network#load)
+[1] [Track Network Activity using Chrome DevTools](https://developer.chrome.com/docs/devtools/network#load) - Benchmark Initial Metrics to Expected Metrics.
 
-[2] [Webpage Load Testing](https://www.webpagetest.org)
+[2] [Webpage Load Testing](https://www.webpagetest.org) - Benchmark metrics with load and advanced settings.
 
 ----
 
