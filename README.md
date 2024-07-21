@@ -10,7 +10,7 @@
 
 <p align="left">
 <a href="https://medium.com/@somesh-rokz" target="blank"><img align="center" src="https://github.com/user-attachments/assets/44ca3e19-3262-44bb-a56f-8abfd4ed032f" alt="Medium_logo" height="40" width="40" /></a>
-<a href="https://someshwaran.me" target="blank"><img align="center" src="https://github.com/user-attachments/assets/aafe5c52-f113-44f3-8873-887a8f563030" alt="website" height="40" width="40" /></a>
+<a href="https://someshwaran.me" target="blank"><img align="center" src="https://github.com/user-attachments/assets/20636234-1f1e-4f65-96f4-888176c31b3c" alt="website" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/somdevsupport/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/920a9053-c5e5-4fb1-a31a-14c619b95c18" alt="linkedin" height="40" width="40" /></a>
 </p>
 
